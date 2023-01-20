@@ -1,0 +1,1 @@
+{"advertising": {"isConnectable": true, "localName": "eMeterai Printer", "manufacturerData": [], "serviceData": [], "serviceUUIDs": [], "txPowerLevel": -2147483648}, "id": "02:11:23:34:56:63", "name": "eMeterai Printer", "rssi": -53}
